@@ -1,6 +1,6 @@
 # Decentralized Donation App
 
-This is a decentralized donation application that allows users to deposit ethers which will be treated as donation.
+This is a decentralized donation application that allows users to deposit ethers which will be treated as donation. 
 
 ![dapp screenshot](https://i.imgur.com/EBx3jGH.jpeg)
 
